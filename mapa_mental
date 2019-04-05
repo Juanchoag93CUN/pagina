@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html charset= utf-8">
+        <meta name="description" content="Curriculum Juan Aguirre">
+        <meta name="keywords" content="Hoja de vida, candidato, curriculum, Juan Aguirre, ingenieria, universidad, sistemas, programacion web">
+        <meta name="author" content="@Juanchoag93">
+        <title>Juan Aguirre</title>
+        <link rel="stylesheet" type="text/css" href="css/estilos.css">
+        <link rel="icon" type="image/x-icon" href="img/favicon.ico">
+    </head>
+    <body>
+      
+        <div id="redes">
+            <a href="https://www.facebook.com/Juanchoag93" target="_blank"><img src="img/fb.png" alt="Facebook" title="Buscame en Facebook!"></a>
+            <a href="https://twitter.com/juanchoag93?lang=es" target="_blank"><img src="img/tw.png" alt="Twitter" title="Sigueme en Twitter!"></a>
+            <a href="https://www.instagram.com/juanchoag93/?hl=es-la" target="_blank"><img src="img/ig.png" alt="Instagram" title="Sigueme en Instagram"></a>
+            <a href="https://wa.me/573007617406?text=Tiene%205.0%20Señor%20Aguirre"><img src="img/wp.png" alt="Whatsapp" title="Escribeme por Whatsapp"></a>
+              <p id="html">
+            <a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88"></a>
+        </p>
+        <p id="css">
+            <a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss-blue"alt="¡CSS Válido!" /></a>
+        </p>
+        </div>
+        <div id="contenedor">
+            <div id="cabecera">
+                <div id="logo">Juan Aguirre</div>
+                <div id="menu">
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="estudios.html">Estudios</a></li>
+                        <li><a href="experiencia_laboral.html">Experiencia laboral</a></li>
+                        <li><a href="mapa_mental" id="activo">Arquitectura web</a></li>
+                    </ul>
+                </div>
+                <div id="mensaje">
+                    <h2>Bienvenido al curriculum de Juan Aguirre</h2>
+                    <p>Ingeniero de sistemas en formación, apasionado por la tecnología y la programación.</p>
+                    <a href="#principal">Leer más</a>
+                </div>
+            </div>
+            <div id="principal">
+                <img src="img/perfil.png" alt="Juan Aguirre">
+                <h1>Perfil Profesional</h1>
+                <p>Persona seria, responsable y con muchas ganas de trabajar y de aprender, con don de gentes y comunicativo. Soy un hombre emprendedor, me gusta mucho aprender cosas nuevas día a día ya que la experiencia que nos deja el diario vivir es de gran importancia para el futuro. Me considero amante de la tecnología y me desenvuelvo muy bien en ese campo. Hago amigos fácilmente ya que soy una persona muy sociable, soy persistente con los proyectos que me asignan y procuro que no se me cierren las puertas ante una dificultad.</p>
+                <hr>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7714.02907616212!2d-74.1892337!3d4.635678399999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2sco!4v1552415997356" width="800" height="600" frameborder="0" style="border:0"></iframe>
+            </div>
+        </div>
+        <div id="footer">
+            <p> |Copyright &copy; 2019| Juan Aguirre &trade; | Derechos e izquierdos bien puestos|</p>
+            <a href="#contenedor"><img src="img/arriba.png" alt="arriba"></a>
+        </div>
+    </body>
+</html>
