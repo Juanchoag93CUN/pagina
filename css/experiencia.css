@@ -15,7 +15,7 @@ body { background: url(../img/fondo_explaboral.png)no-repeat top center; font-fa
 #mensaje p { position: relative; font-size: 18px; top: 170px; letter-spacing: 4px; text-shadow: 1px 1px 0 darkgrey;}
 #mensaje a { position: relative; color: #111; text-decoration: none; top: 210px; border: 2px solid #111; padding: 10px 30px; font-size: 14px;}
 #principal, #footer { padding: 20px 0; }
-#principal img { width: 50%; float: right; margin-left: 20px; }
+#principal img { width: 100%;}
 #principal h1 { font-size: 22px; color: #111; padding-left: 30px;margin-bottom:15px; text-shadow: 1px 1px 0 dodgerblue;}
 #principal p { font-size: 17px; color: #111; line-height: 1; text-align: justify; font-weight: 400; }
 #principal hr { border:none; border-top: 2px solid #111;}
